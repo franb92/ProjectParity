@@ -14,4 +14,4 @@
         Include a screenshot of your code passing all of the tests in Terminal/Powershell.
 
 ## Project Submission Screenshot
-    Successful Submission: ![alt text] https://github.com/franb92/ProjectParity/blob/4477dfa87e92285ba436313bea6f45655be0f015/SuccessfulScreenshot/Picture%201.png?raw=true
+    Successful Submission: https://github.com/franb92/ProjectParity/blob/4477dfa87e92285ba436313bea6f45655be0f015/SuccessfulScreenshot/Picture%201.png?raw=true
